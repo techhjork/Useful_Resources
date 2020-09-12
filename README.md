@@ -943,6 +943,8 @@ Useful resources for Developers
 ## Others
 
 >More
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+
+| Plugin &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- 
+| ------------------------------------------------------------------ |
 |[flickity-slider](https://flickity.metafizzy.co)  | Slider |
