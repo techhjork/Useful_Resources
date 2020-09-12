@@ -370,6 +370,7 @@ Useful resources for Developers
 | [Servier Medical Art](https://smart.servier.com) | 3000 free medical images to illustrate your publications and Powerpoint presentations |
 | [Clker](http://www.clker.com) | Free clip art you can use for anything you like |
 
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -939,3 +940,9 @@ Useful resources for Developers
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+## Others
+
+>More
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+|[flickity-slider](https://flickity.metafizzy.co)  | Slider |
