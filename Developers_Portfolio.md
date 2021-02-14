@@ -296,6 +296,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Yechiel Kalmenson](https://yechiel.me)
 * [YiMing Han](https://yiminghan.com)
 * [Yuri Faria](https://windows87.github.io/)
+* [yoonthecoder](https://yoonkim.ca)
 
 ## Z
 * [Ziyad](https://ziyadsk.github.io/portfolio-V2/)
